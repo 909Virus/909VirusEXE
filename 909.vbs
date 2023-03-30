@@ -1,0 +1,1 @@
+X = MsgBox ("Your PC BE DEAD." , 1 + 32 , "909")
